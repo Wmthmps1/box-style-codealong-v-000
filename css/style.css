@@ -151,9 +151,7 @@ header{
 margin: 0 0 30px;
 }
 
-#logo {
-  padding: 84px 0 0;
-}
+
 
 /*////////// NAVBAR //////////*/
 
@@ -210,6 +208,10 @@ color: white;
 
 #logo h2 {
   font-family: 'Elsie Swash Caps', cursive;
+}
+
+#logo {
+  padding: 84px 0 0;
 }
 
 /*////////// MAIN SECTIONS //////////*/
